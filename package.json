@@ -22,7 +22,7 @@
   ],
   "license": "BSD",
   "engines": {
-    "node": "5.5.0"
+    "node": "4.2.6"
   },
   "devDependencies": {
     "mocha": "~3.5.0",
